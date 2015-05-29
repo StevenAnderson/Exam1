@@ -1,3 +1,4 @@
+//I affirm that all code given below was written solely by me, Steven Anderson, and that any help I received adhered to the rules stated for this exam.
 #include "Movie.h"
 //const int for movie slots available for individual theater (changable)(see functions)
 const int MovieCount=24;
